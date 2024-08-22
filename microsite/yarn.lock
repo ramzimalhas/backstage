@@ -2167,7 +2167,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/types@npm:3.2.1, @docusaurus/types@npm:^3.1.1":
+"@docusaurus/types@npm:3.2.1":
   version: 3.2.1
   resolution: "@docusaurus/types@npm:3.2.1"
   dependencies:
@@ -2184,6 +2184,26 @@ __metadata:
     react: ^18.0.0
     react-dom: ^18.0.0
   checksum: 4f19e162bff627675df160ae5c33c6063646050c4de5c9698018fbd9d198300b9ce7a7333e4d1b369b42cfa42296dc9fb36547e4e37664d594deb08639e6b620
+  languageName: node
+  linkType: hard
+
+"@docusaurus/types@npm:^3.4.0":
+  version: 3.5.2
+  resolution: "@docusaurus/types@npm:3.5.2"
+  dependencies:
+    "@mdx-js/mdx": ^3.0.0
+    "@types/history": ^4.7.11
+    "@types/react": "*"
+    commander: ^5.1.0
+    joi: ^17.9.2
+    react-helmet-async: ^1.3.0
+    utility-types: ^3.10.0
+    webpack: ^5.88.1
+    webpack-merge: ^5.9.0
+  peerDependencies:
+    react: ^18.0.0
+    react-dom: ^18.0.0
+  checksum: e39451b7b08673ad5e1551ee6e4286f90f2554cf9ba245abfa56670550f48afca9c57b01c10ffa21dacb734c0fcd067150eeb2b1c1ebb1692f1f538b1eed0029
   languageName: node
   linkType: hard
 
@@ -3848,7 +3868,7 @@ __metadata:
     "@docusaurus/plugin-client-redirects": ^3.1.1
     "@docusaurus/preset-classic": ^3.1.1
     "@docusaurus/tsconfig": ^3.1.1
-    "@docusaurus/types": ^3.1.1
+    "@docusaurus/types": ^3.4.0
     "@mdx-js/react": ^3.0.0
     "@spotify/prettier-config": ^15.0.0
     "@swc/core": ^1.3.46
@@ -5907,7 +5927,7 @@ __metadata:
 
 "fsevents@patch:fsevents@~2.3.2#~builtin<compat/fsevents>":
   version: 2.3.2
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"
   dependencies:
     node-gyp: latest
   conditions: os=darwin
@@ -10256,7 +10276,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.1.6#~builtin<compat/resolve>, resolve@patch:resolve@^1.14.2#~builtin<compat/resolve>":
   version: 1.22.1
-  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=07638b"
   dependencies:
     is-core-module: ^2.9.0
     path-parse: ^1.0.7
@@ -11278,11 +11298,11 @@ __metadata:
 
 "typescript@patch:typescript@~5.2.0#~builtin<compat/typescript>":
   version: 5.2.2
-  resolution: "typescript@patch:typescript@npm%3A5.2.2#~builtin<compat/typescript>::version=5.2.2&hash=f3b441"
+  resolution: "typescript@patch:typescript@npm%3A5.2.2#~builtin<compat/typescript>::version=5.2.2&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 0f4da2f15e6f1245e49db15801dbee52f2bbfb267e1c39225afdab5afee1a72839cd86000e65ee9d7e4dfaff12239d28beaf5ee431357fcced15fb08583d72ca
+  checksum: 07106822b4305de3f22835cbba949a2b35451cad50888759b6818421290ff95d522b38ef7919e70fb381c5fe9c1c643d7dea22c8b31652a717ddbd57b7f4d554
   languageName: node
   linkType: hard
 
