@@ -45,12 +45,12 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/integration": "0.1.0",
+    "@backstage/plugin-scaffolder-node": "0.1.0",
     "@gitbeaker/core": "^35.8.0",
     "@gitbeaker/node": "^35.8.0",
     "@gitbeaker/rest": "^39.25.0",
