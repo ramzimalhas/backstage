@@ -46,10 +46,10 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/config": "workspace:^",
+    "@backstage/config": "0.1.1",
     "@backstage/errors": "workspace:^",
     "@backstage/types": "workspace:^",
-    "@backstage/version-bridge": "workspace:^",
+    "@backstage/version-bridge": "0.1.0",
     "@types/react": "^16.13.1 || ^17.0.0 || ^18.0.0",
     "history": "^5.0.0"
   },
