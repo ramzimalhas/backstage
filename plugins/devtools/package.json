@@ -62,7 +62,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.57",
     "react-json-view": "^1.21.3",
-    "react-use": "^17.2.4"
+    "react-use": "^17.5.1"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^",
