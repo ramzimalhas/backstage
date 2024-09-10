@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/errors": "workspace:^",
+    "@backstage/errors": "0.1.1",
     "cross-fetch": "^4.0.0",
     "uri-template": "^2.0.0"
   },
