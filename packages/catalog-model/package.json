@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "@backstage/errors": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/types": "0.1.1",
     "ajv": "^8.10.0",
     "lodash": "^4.17.21"
   },
