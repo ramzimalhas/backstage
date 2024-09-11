@@ -42,13 +42,13 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
+    "@backstage/config": "0.1.1",
+    "@backstage/errors": "0.1.1",
     "@backstage/integration": "workspace:^",
     "@backstage/plugin-scaffolder-backend-module-bitbucket-cloud": "workspace:^",
-    "@backstage/plugin-scaffolder-backend-module-bitbucket-server": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/plugin-scaffolder-backend-module-bitbucket-server": "0.1.13",
+    "@backstage/plugin-scaffolder-node": "0.1.0",
     "fs-extra": "^11.2.0",
     "node-fetch": "^2.6.7",
     "yaml": "^2.0.0"
