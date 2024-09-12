@@ -46,16 +46,16 @@
   "dependencies": {
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/version-bridge": "workspace:^",
+    "@backstage/version-bridge": "0.1.0",
     "@material-ui/core": "^4.12.2",
     "@material-ui/styles": "^4.11.0",
     "@types/react": "^16.13.1 || ^17.0.0 || ^18.0.0",
     "jss": "~10.10.0",
     "lodash": "^4.17.21",
     "react-helmet": "6.1.0",
-    "react-use": "^17.2.4"
+    "react-use": "^17.5.1"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^",
