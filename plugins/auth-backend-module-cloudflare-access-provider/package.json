@@ -34,11 +34,11 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
-    "express": "^4.18.2",
+    "@backstage/backend-plugin-api": "0.1.0",
+    "@backstage/config": "0.1.1",
+    "@backstage/errors": "0.1.1",
+    "@backstage/plugin-auth-node": "0.5.2",
+    "express": "^4.20.0",
     "jose": "^5.0.0",
     "node-fetch": "^2.6.7"
   },
