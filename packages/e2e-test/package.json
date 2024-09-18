@@ -29,7 +29,7 @@
   "dependencies": {
     "@backstage/cli-common": "workspace:^",
     "@backstage/create-app": "workspace:^",
-    "@backstage/errors": "workspace:^",
+    "@backstage/errors": "0.1.1",
     "chalk": "^4.0.0",
     "commander": "^12.0.0",
     "cross-fetch": "^4.0.0",
