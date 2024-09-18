@@ -33,12 +33,12 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.1.0",
     "@types/passport": "^1.0.16",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "jose": "^5.0.0",
     "passport": "^0.7.0"
   },
