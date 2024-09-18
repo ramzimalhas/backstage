@@ -34,11 +34,11 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-common": "0.25.0",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/errors": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/errors": "0.1.1",
+    "@backstage/plugin-auth-node": "0.5.2",
     "passport-oauth2": "^1.7.0"
   },
   "devDependencies": {
