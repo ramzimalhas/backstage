@@ -47,8 +47,8 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
+    "@backstage/config": "0.1.1",
     "@backstage/plugin-events-node": "workspace:^",
     "@octokit/webhooks-methods": "^3.0.0"
   },
