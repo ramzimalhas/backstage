@@ -37,12 +37,12 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/plugin-notifications-common": "workspace:^",
-    "@backstage/plugin-signals-node": "workspace:^",
+    "@backstage/plugin-notifications-common": "0.0.1",
+    "@backstage/plugin-signals-node": "0.1.9",
     "knex": "^3.0.0",
     "node-fetch": "^2.6.7",
     "uuid": "^9.0.0"
