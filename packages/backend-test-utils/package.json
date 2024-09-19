@@ -45,12 +45,12 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-app-api": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/backend-app-api": "0.1.0",
+    "@backstage/backend-plugin-api": "0.1.0",
+    "@backstage/config": "0.1.1",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
-    "@backstage/plugin-events-node": "workspace:^",
+    "@backstage/plugin-events-node": "0.1.0",
     "@backstage/types": "workspace:^",
     "@keyv/memcache": "^1.3.5",
     "@keyv/redis": "^2.5.3",
