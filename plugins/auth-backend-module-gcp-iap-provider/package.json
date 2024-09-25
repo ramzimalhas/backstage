@@ -38,10 +38,10 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/types": "0.1.1",
     "google-auth-library": "^9.0.0"
   },
   "devDependencies": {
