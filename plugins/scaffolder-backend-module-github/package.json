@@ -42,12 +42,12 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/integration": "0.1.0",
+    "@backstage/plugin-scaffolder-node": "0.1.0",
     "@octokit/webhooks": "^10.0.0",
     "libsodium-wrappers": "^0.7.11",
     "octokit": "^3.0.0",
