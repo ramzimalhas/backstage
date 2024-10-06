@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@azure/identity": "^4.0.0",
-    "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
+    "@backstage/config": "0.1.1",
+    "@backstage/errors": "0.1.1",
     "@octokit/auth-app": "^4.0.0",
     "@octokit/rest": "^19.0.3",
     "cross-fetch": "^4.0.0",
