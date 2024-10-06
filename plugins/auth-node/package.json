@@ -37,9 +37,9 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-client": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-plugin-api": "0.1.0",
+    "@backstage/catalog-client": "0.2.0",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
