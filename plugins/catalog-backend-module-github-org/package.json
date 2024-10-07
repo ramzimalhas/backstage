@@ -33,12 +33,12 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/backend-tasks": "workspace:^",
-    "@backstage/config": "workspace:^",
-    "@backstage/plugin-catalog-backend-module-github": "workspace:^",
-    "@backstage/plugin-catalog-node": "workspace:^",
+    "@backstage/config": "0.1.1",
+    "@backstage/plugin-catalog-backend-module-github": "0.7.0",
+    "@backstage/plugin-catalog-node": "1.0.0",
     "@backstage/plugin-events-node": "workspace:^"
   },
   "devDependencies": {
