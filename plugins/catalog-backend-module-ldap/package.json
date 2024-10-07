@@ -38,14 +38,14 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/config": "0.1.1",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
-    "@backstage/plugin-catalog-node": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/plugin-catalog-node": "1.0.0",
+    "@backstage/types": "0.1.1",
     "@types/ldapjs": "^2.2.5",
     "ldapjs": "^2.3.3",
     "lodash": "^4.17.21",
