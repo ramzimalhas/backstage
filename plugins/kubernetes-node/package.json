@@ -38,10 +38,10 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/plugin-kubernetes-common": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/types": "0.1.1",
     "@kubernetes/client-node": "^0.20.0",
     "node-fetch": "^2.6.7",
     "winston": "^3.2.1"
